@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shitong/c++_learn/test.cpp
+vector/vector_c++.h
+/home/shitong/c++_learn/vector/vector_c++.h
+iostream
+-
+
+/home/shitong/c++_learn/vector/vector_c++.h
+iostream
+-
+

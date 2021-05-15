@@ -1,0 +1,4 @@
+/home/shitong/c++_learn/List_learn/build/CMakeFiles/edit_cache.dir
+/home/shitong/c++_learn/List_learn/build/CMakeFiles/package_source.dir
+/home/shitong/c++_learn/List_learn/build/CMakeFiles/rebuild_cache.dir
+/home/shitong/c++_learn/List_learn/build/CMakeFiles/package.dir

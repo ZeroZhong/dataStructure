@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/shitong/c++_learn/build",
+  "command": "/bin/g++-9   -I/home/shitong/c++_learn/vector  -g   -o CMakeFiles/TEST_VECTOR.dir/test.cpp.o -c /home/shitong/c++_learn/test.cpp",
+  "file": "/home/shitong/c++_learn/test.cpp"
+}
+]
