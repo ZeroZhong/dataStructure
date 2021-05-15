@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/shitong/c++_learn/List_learn/build",
+  "command": "/bin/clang++-10    -g   -o CMakeFiles/LISTTEST.dir/main.cpp.o -c /home/shitong/c++_learn/List_learn/main.cpp",
+  "file": "/home/shitong/c++_learn/List_learn/main.cpp"
+}
+]
